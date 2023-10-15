@@ -1,0 +1,44 @@
+.a{
+    border: 5px solid;
+    height: 150px;
+    width: 150px;
+    
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+}
+.b{
+    border: 5px solid;
+    height:150px;
+    width: 150px;
+}
+.sec{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.c{
+    border: 5px solid;
+    height: 150px;
+    width:150px;
+
+}
+.four{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.d{
+    border: 5px solid;
+    height:150px;
+    width: 150px;
+}
+.third{ display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.main{
+   margin: 250px;
+}
+

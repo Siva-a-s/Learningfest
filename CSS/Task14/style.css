@@ -1,0 +1,35 @@
+.a{
+    
+    border:2px solid ;
+    padding: 20px;
+    margin: 25px;
+    width: fit-content;
+}
+
+.b{
+    border: 2px solid;
+    padding: 20px;
+    margin: 25px;
+    width: fit-content;
+     
+}
+.c{
+    border: 2px solid;
+    padding: 20px;
+    margin: 25px;
+    width: fit-content;
+     
+}
+.d{
+    border: 2px solid;
+    padding: 20px;
+    margin: 25px;
+    width: fit-content;
+     
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
